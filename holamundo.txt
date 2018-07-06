@@ -1,4 +1,2 @@
-Cada vez que queremos estar en un nuevo programa :q
-:Q
-C
+Cada vez que queremos estar en un nuevo programa 
 
